@@ -1,0 +1,4 @@
+pandas
+sympy
+z3-solver
+python-constraint
